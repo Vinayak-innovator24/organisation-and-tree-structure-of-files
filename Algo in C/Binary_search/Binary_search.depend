@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608618709 source:d:\algo in c\binary_search\main.c
+	<stdio.h>
+	<malloc.h>
+
